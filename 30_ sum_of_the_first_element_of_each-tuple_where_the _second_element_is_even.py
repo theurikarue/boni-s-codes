@@ -1,4 +1,4 @@
-def sum_of_first_elements_of_tuples_with_even_second_element(tuples_list):
+def sum_of_first_elements_of_tuples_with_even_no_as_second_element(tuples_list):
     total = 0
     for tuple in tuples_list:
         if tuple[1] % 2 == 0:
