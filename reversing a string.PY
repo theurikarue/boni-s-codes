@@ -1,3 +1,3 @@
 #Program to reverse a string
-gfg = "geeksforgeeks"
+gfg = input("Enter desired string: ")
 print(gfg[::-1])
