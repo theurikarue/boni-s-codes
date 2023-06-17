@@ -1,2 +1,3 @@
-# import the module
-from vpython import * helix()
+#Program to reverse a string
+gfg = "geeksforgeeks"
+print(gfg[::-1])
