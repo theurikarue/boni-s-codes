@@ -1,4 +1,4 @@
-A="My name is Bonface"
+A=input("Enter desired string")
 print(len(A))
 
 
